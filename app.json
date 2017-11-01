@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "impresso-version-1-0",
+    "description": "No description",
+    "slug": "impresso-version-1-0",
+    "privacy": "public",
+    "sdkVersion": "21.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+  "facebookScheme":"fb154803601777322",
+    "icon": "./assets/icons/app-icon.png",
+    "notification": {
+      "icon": "./assets/icons/notification-icon.png",
+      "color": "#000000"
+    },
+    "loading": {
+      "icon": "./assets/icons/loading-icon.png",
+      "backgroundImage":"./assets/images/aploadingbg.png"
+
+
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf"]
+    },
+    "ios": {
+      "bundleIdentifier": "com.sk3vy.new-project-template",
+      "supportsTablet": true
+    }
+  }
+}
