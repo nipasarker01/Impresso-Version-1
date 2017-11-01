@@ -66,7 +66,8 @@ export default class SwiperScreen extends React.Component {
          style={styles.logo} />
 
        <Text style={styles.title}>GREAT IDEAS COMES FROM PEOPLE LIKE YOU</Text>
-       <Text style={styles.text}> IMPRESSO is the connection between innovative ideas & Great Careers</Text>
+       <Text style={styles.text}> IMPRESSO is the connection between </Text>
+       <Text style={styles.text}>innovative ideas And Great Careers</Text>
 
 
          </View>
@@ -76,7 +77,8 @@ export default class SwiperScreen extends React.Component {
       source={require('./../assets/images/obd2.png')}
          style={styles.logo} />
        <Text style={styles.title}>MARKET YOUR PROFILES TO COMPANIES</Text>
-       <Text style={styles.text}> Build your innovative profile by participating or collaborating on great Ideas!</Text>
+       <Text style={styles.text}> Build your innovative profile by participating</Text>
+        <Text style={styles.text}> or collaborating on great Ideas!</Text>
 
 
        </View>
@@ -86,7 +88,8 @@ export default class SwiperScreen extends React.Component {
       source={require('./../assets/images/obd3.png')}
          style={styles.logo} />
        <Text style={styles.title}>EARN MONEY</Text>
-       <Text style={styles.text}> Where Ideas can grow,earn royalties by participating to the ones you love to have.</Text>
+       <Text style={styles.text}> Where Ideas can grow,earn royalties by </Text>
+       <Text style={styles.text}> participating to the ones you love to have.</Text>
 
        </View>
 
