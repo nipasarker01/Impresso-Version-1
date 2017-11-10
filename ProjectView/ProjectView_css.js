@@ -10,14 +10,14 @@ module.exports = StyleSheet.create({
    },
    cardHeading: {
      fontSize: 15,
-     
+
    },
    cardImage: {
      height: 200,
      flex:1,
 
    },
-   iconcontainer:{
+   iconContainer:{
 
      flexDirection: 'row',
      alignItems: 'center',
@@ -55,12 +55,12 @@ module.exports = StyleSheet.create({
     borderWidth: .5,
     borderColor: '#000'
   },
-  btntxt:{
+  btnTxt:{
     paddingHorizontal:20,
     paddingVertical:4,
 
   },
-  btntxt2:{
+  btnTxt2:{
     paddingHorizontal:20,
     paddingVertical:4,
     color:'#fff',
